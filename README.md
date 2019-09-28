@@ -1,8 +1,8 @@
 # Python-Flappy-Bird-AI
-Flappy bird with python and AI 
+Flappy bird with python and AI
 
 NEAT-python algoritmo:  
-	Usa:
+	Usa:  
 		**INPUTS** <- Necesitamos dar datos, posicion de Bird (y), distancia entre el Bird y las tuberias (TopPipe, BotPipe)   
 		**OUTPUTS** <- Salta o no salta.  
 		**Activation Functions** <- Tan(H) checkearemos si el numero es -1 o 1 lo que determinara si salta o no salta   
